@@ -14,11 +14,11 @@ setuptools.setup(
     ),
     long_description=long_description,
     long_description_content_type="text/x-rst",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/anadon/django_table_renderers",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3.6",
-        "License :: OSI Approved :: GNU AFFERO GENERAL PUBLIC LICENSE V3",
+        "License :: OSI Approved :: GNU Affero General Public License v3",
         "Operating System :: OS Independent",
         "Environment :: Other Environment",
         "Framework :: Django",
